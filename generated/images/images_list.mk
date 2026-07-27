@@ -1,0 +1,1 @@
+GEN_CSRCS += _LOGO_alpha_64x64.c _eth0_alpha_24x24.c _eth1_alpha_24x24.c _wlan0_alpha_24x24.c _LOGO_alpha_36x36.c _net_alpha_64x64.c
